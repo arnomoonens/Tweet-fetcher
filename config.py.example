@@ -1,0 +1,10 @@
+#List of search parameter-destination collection tuples, here movies for example
+collect_sources = [('#HotTubTimeMachine2', 'HotTubTimeMachine2'), ('#LittleBoyMovie', 'LittleBoyMovie'), ('#ChappieMovie', 'ChappieMovie'), ('#TheLazarusEffect', 'TheLazarusEffect'), ('#UnlockInsurgent', 'Insurgent'), ('#InsurgentMovie', 'Insurgent')]
+
+#Twitter connection
+CONSUMER_KEY = "CONSUMER_KEY"
+CONSUMER_SECRET = "CONSUMER_SECRET"
+ACCESS_TOKEN = "ACCESS_TOKEN"
+ACCESS_TOKEN_SECRET = "ACCESS_TOKEN_SECRET"
+
+BOXCAR_KEY = 'BOXCAR_KEY'
